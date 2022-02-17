@@ -3,4 +3,10 @@
   <groupId>CWHCLASSESpRacticals</groupId>
   <artifactId>CWHCLASSESpRacticals</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<properties>
+      <cucumber.version>6.6.1</cucumber.version>
+      <maven.compiler.source>1.8</maven.compiler.source>
+      <maven.compiler.source>1.8</maven.compiler.source>
+    </properties>
+
 </project>
