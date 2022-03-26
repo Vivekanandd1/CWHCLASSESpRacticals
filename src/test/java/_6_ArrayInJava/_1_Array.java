@@ -11,7 +11,9 @@ public class _1_Array {
 		int[] class1 = new int[6];
 		//3 declaration  and assignment same time and initialisation at same time.
 		int[] verson = {67,46,656,345,33};
+		verson[2] = 45;
 		System.out.println(verson[2]);
+		
 		
 		//checking lenth of an array
 		System.out.println(verson.length);
